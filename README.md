@@ -142,7 +142,18 @@ Cleared .pkl cache files to force recomputation of embeddings.
 
 - Real-time FPS displayed in webcam/video mode  
 - Frame skipping implemented for performance optimization  
-- Recognition accuracy depends on dataset quality  
+- Recognition accuracy depends on dataset quality
+
+
+---
+
+# Dataset
+
+The dataset used for this project was sourced from Kaggle:
+
+https://www.kaggle.com/datasets/anku5hk/5-faces-dataset/data
+
+Only a subset of high-quality images was selected and cleaned to improve recognition accuracy.
 
 ---
 
